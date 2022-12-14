@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<script src="https://unpkg.com/html5-qrcode@2.0.9/dist/html5-qrcode.min.js"></script>
+<script src="https://unpkg.com/quagga@0.12.1/dist/quagga.min.js"></script>
+
+<body>
+    <div align="center" class="menu-header">
+        <img class="menu-logo" src="/css/WMS.logo.jpg" alt="WMS Logo" />
+        <h1>
+            <span>WMS Inventory Tracker</span>
+        </h1>
+
+    </div>
+    <br />
+    <div align="left" class="menu" id="menu">
+        <div align="center">
+            <h1>
+                <span>Main Menu</span>
+            </h1>
+        </div>
+        <br />
+        <ul>
+            <li>
+                <a style="color: white; cursor: pointer; text-decoration:underline;" onClick='location.href="/Accounts/Details/1"'><u>Account</u></a>
+            </li>
+            <li>
+                <a style="color: white; cursor: pointer; text-decoration:underline;" onClick='location.href="/StorageLocation/Account/1"'><u>Storage Locations</u></a>
+            </li>
+            <li>
+                <a style="color: white; cursor: pointer; text-decoration:underline;" onClick='location.href="/Container/Account/1"'><u>Containers</u></a>
+            </li>
+            <li>
+                <a style="color: white; cursor: pointer; text-decoration:underline;" onClick='location.href="/Contents/Index"'><u>Contents</u></a>
+            </li>
+        </ul>
+        <div>
+            <button id="scanner">Scan a Barcode</button>
+        </div>
+        <div id="barcode-reader" style="display:none;">
+        </div>
+
+        <script>const targetDiv = document.getElementById("barcode-reader")
+            const btn = document.getElementById("scanner")
+
+
+            btn.addEventListener('click', function () {
+                if (targetDiv.style.display === 'none') {
+                    targetDiv.style.display = 'block';
+                } else {
+                    targetDiv.style.display = 'none';
+                }
+            });
+
+            var results;
+
+            Quagga.init({
+                inputStream: {
+                    name: "Live",
+                    type: "LiveStream",
+                    target: document.querySelector('#barcode-reader')
+                },
+                decoder: {
+                    readers: ["code_39_reader"]
+                }
+            }, function (err) {
+                if (err) {
+                    console.log(err);
+                    return
+                }
+                console.log("Initialization finished. Ready to start");
+                Quagga.start();
+            });
+
+            Quagga.onDetected(function (result) {
+                results = result.codeResult.code;
+                console.log(results);
+                Quagga.stop();
+                location.replace("http://localhost:8589/Container/Details/" + results)
+            });</script>
+
+        <br />
+        <br />
+        <br />
+    </div>
+
+</body>

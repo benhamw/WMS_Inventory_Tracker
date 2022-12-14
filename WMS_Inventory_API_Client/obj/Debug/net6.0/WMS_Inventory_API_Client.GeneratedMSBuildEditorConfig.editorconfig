@@ -1,0 +1,144 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WMS_Inventory_API_Client
+build_property.RootNamespace = WMS_Inventory_API_Client
+build_property.ProjectDir = C:\Users\willi\source\Fantastic-6-Amigos-Final-Project\WMS_Inventory_API_Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\willi\source\Fantastic-6-Amigos-Final-Project\WMS_Inventory_API_Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXEFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Barcode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXEJhcmNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Home/Developers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXZlbG9wZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Home/MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmFnZUxvY2F0aW9uXEFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmFnZUxvY2F0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmFnZUxvY2F0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmFnZUxvY2F0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmFnZUxvY2F0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmFnZUxvY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/source/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k41tibf40s
